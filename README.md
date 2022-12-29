@@ -5,7 +5,7 @@ This project is made up from popular show rick and morty a by React JS and tailw
 
 ## Live Demo
 
-[Movie Website Live](https://movie-website-iamthakurnikhil.netlify.app/)
+[Rick and Morty Live](https://rick-morty-iamthakurnikhil.netlify.app/)
 
 
 ## Screenshots
@@ -18,13 +18,13 @@ This project is made up from popular show rick and morty a by React JS and tailw
 Clone the project
 
 ```bash
-  git clone https://github.com/iamthakurnikhil/movie-website.git
+  git clone https://github.com/iamthakurnikhil/rick-and-morty.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd movie-website
+  cd rick-and-morty
 ```
 
 Install dependencies
